@@ -1,0 +1,12 @@
+{
+  "mcp": {
+    "servers": {
+      "konnect": {
+        "type": "local",
+        "command": [
+          "konnect"
+        ]
+      }
+    }
+  }
+}
